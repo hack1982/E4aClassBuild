@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hack1982.e4aclassbuild.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hack1982.e4aclassbuild.MyBundle
 
 class MyApplicationService {
 

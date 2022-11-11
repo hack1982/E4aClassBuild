@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.hack1982.e4aclassbuild
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

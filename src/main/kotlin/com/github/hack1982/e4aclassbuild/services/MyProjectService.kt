@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.hack1982.e4aclassbuild.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hack1982.e4aclassbuild.MyBundle
 
 class MyProjectService(project: Project) {
 
